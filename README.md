@@ -2,6 +2,7 @@
 
 ## Overview
 Demo video: https://drive.google.com/file/d/1_yi9sHUrg7GPp8wlGjlXvT-vjQZC3aYH/view?usp=sharing
+
 Kalimati is a gamified English language learning platform designed to make vocabulary acquisition engaging and structured for both students and teachers. Built around a teacher-student model, the app allows educators to 
 create tailored learning content while students progress through interactive games that reinforce vocabulary, spelling, and comprehension. Every user, whether teacher or student, has their own personal account, ensuring 
 learning progress and content are organized and easy to manage.
